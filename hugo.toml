@@ -3,15 +3,9 @@ languageCode = 'ja-jp'
 title = 'kensei'
 theme = "mainroad"
 
-[Author] # Used in authorbox
-  name = "kensei"
-  bio = "game programmer"
-  avatar = "assets/images/avatar.png"
-
 [Params]
   description = "kensei's Personal blog about software development" # Site description. Used in meta description
   copyright = "kensei" # Footer copyright holder, otherwise will use site title
-  authorbox = true # Show authorbox at bottom of pages if true
   toc = true # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories"] # Order of post meta information
@@ -33,7 +27,7 @@ theme = "mainroad"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "assets/images/avatar.png" # Logo image. Path relative to "static"
+  image = "images/33-2572_200x200.jpg" # Logo image. Path relative to "static"
   title = "kensei's site" # Logo title, otherwise will use site title
   #subtitle = "Just another site" # Logo subtitle
 
