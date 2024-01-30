@@ -1,13 +1,15 @@
 +++
 title = '今更hugo'
 date = 2024-01-30T17:50:15+09:00
-categories = [ "it" ]
+categories = [ "develop" ]
 tags = [ "hugo" ]
 +++
 
 ## Introduction
 
 業務では使用してましたが、個人のアウトプットする場として今更ながらの作成です
+
+<!--more-->
 
 ## 環境構築
 
@@ -24,7 +26,7 @@ tags = [ "hugo" ]
         theme = "mainroad"
 1. 動作確認
 
-        hugo server -D
+        hugo server -D --buildDrafts
 
 ## 記事の作成
 
