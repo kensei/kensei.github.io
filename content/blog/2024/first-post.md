@@ -1,7 +1,6 @@
 +++
 title = '今更hugo'
 date = 2024-01-30T17:50:15+09:00
-draft = true
 categories = [ "it" ]
 tags = [ "hugo" ]
 +++
